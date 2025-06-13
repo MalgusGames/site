@@ -71,3 +71,29 @@ h3 {
 p {
   font-size: 1rem;
 }
+
+/* images */
+
+.socials {
+  display: flex;
+  gap: 5px;
+  margin: auto;
+  width: 106px;
+}
+
+.social-image {
+  height: 32px;
+  width: 32px;
+}
+
+.instagram {
+  background-image: url("../src/assets/socials/instagram.png");
+}
+
+.tik-tok {
+  background-image: url("../src/assets/socials/tik_tok.png");
+}
+
+.youtube {
+  background-image: url("../src/assets/socials/youtube.png");
+}
