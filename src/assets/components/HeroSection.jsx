@@ -4,7 +4,7 @@ export default function HeroSection() {
       <div>
         <img
           className="hero-image"
-          src="src\assets\Hero-Images-All.png"
+          src="./src\assets\Hero-Images-All.png"
           alt="hero-image"
         />
       </div>
