@@ -1,12 +1,10 @@
+import heroImage from "/src/assets/Hero-Images-All.png";
+
 export default function HeroSection() {
   return (
     <div className="section-container">
       <div>
-        <img
-          className="hero-image"
-          src="src\assets\Hero-Images-All.png"
-          alt="hero-image"
-        />
+        <img className="hero-image" src={heroImage} alt="hero-image" />
       </div>
       <div className="layout">
         <div className="layout header-subtext">
