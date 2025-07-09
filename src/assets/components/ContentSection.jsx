@@ -6,10 +6,10 @@ export default function ContentSection() {
       <div className="layout-mini">
         <h2>D&D Magic Items</h2>
         <p>
-          Welcome to Malgus Games, a hobby that has slowly grown into an
-          obsession. Most of my work has centered around making materials and
-          assets for my home games, and now I want to share that with all of
-          you! So stay awhile, grab an ale, and please, have a look around!
+          Making homebrew magic items is a hobby that comes in handy when you're
+          a forever DM. If you're looking to expand your loot tables, look no
+          further! Feedback is always welcome so if you use one of my items at
+          your table, please let me know how it goes!
         </p>
       </div>
       <CardContainer />
