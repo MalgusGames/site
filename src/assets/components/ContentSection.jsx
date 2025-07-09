@@ -2,7 +2,7 @@ import CardContainer from "./CardContainer";
 
 export default function ContentSection() {
   return (
-    <div className="section-container">
+    <div className="section-container" id="magic-items">
       <div className="layout-mini">
         <h2>D&D Magic Items</h2>
         <p>

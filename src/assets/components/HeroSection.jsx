@@ -19,14 +19,10 @@ export default function HeroSection() {
           you! So stay awhile, grab an ale, and please, have a look around!
         </p>
         <div className="ctas">
-          <CallToAction
-            text="Browse Content"
-            link="https://www.google.com/"
-            theme="red"
-          />
+          <CallToAction text="Browse Content" link="#magic-items" theme="red" />
           <CallToAction
             text="Buy Me A Coffee"
-            link="https://www.google.com/"
+            link="https://ko-fi.com/malgusgames"
             theme="white"
             icon="yes"
           />
