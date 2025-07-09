@@ -1,4 +1,4 @@
-import { getImageURL } from "../../utils/image-util";
+import { getSocialImageURL } from "../../utils/image-util";
 
 export default function Socials() {
   const socialMedia = [
@@ -23,7 +23,7 @@ export default function Socials() {
       {socialMedia.map((i) => (
         <a className="social-link" href={i.link}>
           <div className="social-image">
-            <img src={getImageURL(i.imagePath)} alt={i.social} />
+            <img src={getSocialImageURL(i.imagePath)} alt={i.social} />
           </div>
         </a>
       ))}

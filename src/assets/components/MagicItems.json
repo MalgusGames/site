@@ -1,0 +1,120 @@
+[
+    {
+        "name": "Chaos Grenade",
+        "image": "chaos_grenade.png",
+        "type": "Wonderous Item",
+        "item-rarity": "Uncommon",
+        "description": "“This bottle comes with a quick-release harness that can be attached to a belt or strap. At an initial glance, the liquid in the bottle appears",
+        "link_regular": "https://drive.google.com/file/d/1AFPshacX8K9h_-k1kexHk6xabt3U4gRc/view?usp=sharing",
+        "link-bw": "https://drive.google.com/file/d/1CfmF3Z6XLZiQwIyjfayoKJ2X0Sn-WENT/view?usp=sharing"
+    },
+    {
+        "name": "Eye Spy Arrowhead",
+        "image": "eye_spy_arrow.png",
+        "type": "Weapon (any ammunition)",
+        "rarity": "Rare",
+        "description": "“An unsettling, shifting eye rests at the base of this arrowhead, just before the shaft of the arrow. Purples and blues swirl in its iris,",
+        "link_regular": "https://drive.google.com/file/d/1jKQemL_v5j1ay22XVIcbVaNlCL5cupRA/view?usp=sharing",
+        "link_bw": "https://drive.google.com/file/d/1VY9APJXZfQjFl5q6VJCQTZs3Edo5-ATf/view?usp=sharing"
+    },
+    {
+        "name": "Magma Blade",
+        "image": "magma_dagger.png",
+        "type": "Weapon (dagger)",
+        "rarity": "Rare",
+        "description": "“Embued with the entropic nature of the fire realm, this blade was the weapon of choice for the djinn thief Zala’al-Naar.”",
+        "link_regular": "https://drive.google.com/file/d/1QyAgV7gaSYCSTUN94gO7R2d7yhIayaS1/view?usp=sharing",
+        "link_bw": "https://drive.google.com/file/d/1fv-EiW15SigqXBwNtXtrxE4cXCHB7wuk/view?usp=sharing"
+    },
+    {
+        "name": "Raijin",
+        "image": "raijin.png",
+        "type": "Weapon (long sword)",
+        "rarity": "Very Rare (requires attunement)",
+        "description": "“The crime boss Durlok smiled as his thugs surrounded the traveller. Suddenly, there was blue flash. In an instant the traveller",
+        "link_regular": "https://drive.google.com/file/d/1yOpk3CxkNzJ-PeQogPZxRUy06Rnx3Dxv/view?usp=sharing",
+        "link_bw": "https://drive.google.com/file/d/1naWCWzahP0ptUVJBxfPhrUWp_xRVZafr/view?usp=sharing"
+    },
+    {
+        "name": "Ghast Oil",
+        "image": "ghast_oil.png",
+        "type": "Wonderous Item",
+        "rarity": "Rare",
+        "description": "“A ghast’s stench is amongst the most vile and pungent smells an adventurer can encounter. But for crafty alchemists who can stomach",
+        "link_regular": "https://drive.google.com/file/d/1VS8RYMCeYtPBLvUkf_Q02LFWmZI5_bxX/view?usp=sharing",
+        "link_bw": "https://drive.google.com/file/d/1jKQemL_v5j1ay22XVIcbVaNlCL5cupRA/view?usp=sharing"
+    },
+    {
+        "name": "Ghost Glove",
+        "image": "ghost_glove.png",
+        "type": "Wonderous Item",
+        "rarity": "Rare (requires attunement)",
+        "description": "“The small, spectral green hand grabbed the necklace off the display, and mimicking the rogue’s movements began to return to",
+        "link_regular": "https://drive.google.com/file/d/1k8hbOdZ3aaln9Y1SgYFogxT0JAspRGX_/view?usp=sharing",
+        "link_bw": "https://drive.google.com/file/d/19BEZnH2hz-NwNIz1HjC6U1oe-bMUQkfo/view?usp=sharing"
+    },
+    {
+        "name": "Butcher's Blade",
+        "image": "butchers_blade.png",
+        "type": "Non-Magical Greataxe",
+        "rarity": "Uncommon",
+        "description": "“A massive blade that overshadows even the mightiest warriors, legends say that only a chosen champion can wield this axe. The truth,",
+        "link_regular": "https://drive.google.com/file/d/1WF4NGbdf6LMBCSpZ0a7qrOxjNPsChnU3/view?usp=sharing",
+        "link_bw": "https://drive.google.com/file/d/1GPWiq3fOpcgtHkepFZBCuCg41uSMHBM4/view?usp=sharing"
+    },
+    {
+        "name": "Ring Of Bubbles",
+        "image": "bubble_ring.png",
+        "type": "Wonderous Item",
+        "rarity": "Uncommon (requires attunement)",
+        "description": "“The elf spun around, shocked at the sudden appearance of the bandit in the alleyway. However, before the would-be mugger made",
+        "link_regular": "https://drive.google.com/file/d/1V9nxE6rfs8ew05tRISOG4JZ11eO0kanO/view?usp=sharing",
+        "link_bw": "https://drive.google.com/file/d/1V9nxE6rfs8ew05tRISOG4JZ11eO0kanO/view?usp=sharing"
+    },
+    {
+        "name": "Beast Biscuit",
+        "image": "beast_biscuit.png",
+        "type": "Wonderous Item",
+        "rarity": "Common",
+        "description": "“We were awakened by a low growling sound in the night. Two yellow eyes shown through the darkness of the jungle with",
+        "link_regular": "https://drive.google.com/file/d/1h3-1AtaGYyMUalTYpInsiviIG630CW2L/view?usp=sharing",
+        "link_bw": "https://drive.google.com/file/d/18Vr-XPfEf3pA3hDub4JAvpOvqGg2vQCX/view?usp=sharing"
+    },
+    {
+        "name": "Thunderstruck",
+        "image": "thunder_spear.png",
+        "type": "Weapon (spear)",
+        "rarity": "Uncommon",
+        "description": "“We had made it out of the city walls. With all that armor, the paladin giving chase surely couldn’t catch up to us. A spear flew",
+        "link_regular": "https://drive.google.com/file/d/1Y4uzVl0tgXD-PnIL8n5zXfei-cSmUqon/view?usp=sharing",
+        "link_bw": "https://drive.google.com/file/d/1s40POYEQgQU6SNBm_Hr42UcnxQqDtL1Z/view?usp=sharing"
+    },
+    {
+        "name": "Warp Arrow",
+        "image": "warp_arrow.png",
+        "type": "Wonderous Item",
+        "rarity": "Rare",
+        "description": "“We had just narrowly escaped. With the chasm separating us from our pursuers, we finally felt safe. One of the bounty hunters nocked",
+        "link_regular": "https://drive.google.com/file/d/1ppSIbDovSLK1xz-vwILWfdwPKA1wmFNH/view?usp=sharing",
+        "link_bw": "https://drive.google.com/file/d/1QPwjWeRo7iBg8PRxV8q69kwd4Q2RfaX7/view?usp=sharing"
+    },
+    {
+        "name": "Bayou Brew",
+        "image": "bayou_brew.png",
+        "type": "Wonderous Item",
+        "rarity": "Uncommon",
+        "description": "This frothing beverage is garnished with a lillypad and exudes a faint odor of peet and sulfar. Drinking this brew gives you the benefits of the Underwater",
+        "link_regular": "https://drive.google.com/file/d/1IDdDiNgJ9GbsxpwdbXXcExa5bvItF-r6/view?usp=sharing",
+        "link_bw": "https://drive.google.com/file/d/1mKM8uZmOrMsE8qnGo4wm3R9NnzAHkRhN/view?usp=sharing"
+    },
+    {
+        "name": "Storm's Grasp",
+        "image": "storms_grasp.png",
+        "type": "Weapon (flail)",
+        "rarity": "Rare (requires attunement)",
+        "description": "“They had stormed the wrong keep. The mercenary’s comrades were being taken down one by one. They turned, thinking that they",
+        "link_regular": "https://drive.google.com/file/d/10BqXKuKUzaeMQ4M_5X5aQkdlTbgNUx85/view?usp=sharing",
+        "link_bw": "https://drive.google.com/file/d/1Lud9E9UzJEJHtrZIeoagseps16wvcSNH/view?usp=sharing"
+    }
+
+]

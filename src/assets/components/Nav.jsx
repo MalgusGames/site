@@ -11,7 +11,7 @@ export default function Nav() {
         </a>
       </div>
       <div className="nav-links">
-        <a href="" className="nav-link">
+        <a href="https://www.threadless.com/@MalgusGames" className="nav-link">
           Merch
         </a>
         <Socials />
