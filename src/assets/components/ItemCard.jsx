@@ -1,4 +1,3 @@
-import Demo from "/src/assets/item_images/item-image-demo.png";
 import { getItemImageURL } from "../../utils/image-util";
 
 export default function ItemCard({ item = "placeholder" }) {
