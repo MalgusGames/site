@@ -1,18 +1,16 @@
-import { useState } from "react";
 import "./App.css";
-import HeroSection from "./assets/components/HeroSection";
-import Nav from "./assets/components/Nav";
-import ContentSection from "./assets/components/ContentSection";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import { PageHome } from "./assets/pages/PageHome";
+import { PageAllies } from "./assets/pages/PageAllies";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
-    <div className="content-container">
-      <Nav />
-      <HeroSection />
-      <ContentSection />
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<PageHome />} />
+        <Route path="/allies" element={<PageAllies />} />
+      </Routes>
+    </Router>
   );
 }
 
