@@ -21,7 +21,7 @@ export default function Socials() {
   return (
     <div className="socials">
       {socialMedia.map((i) => (
-        <a className="social-link" href={i.link}>
+        <a className="social-link" href={i.link} target="_blank">
           <div className="social-image">
             <img src={getSocialImageURL(i.imagePath)} alt={i.social} />
           </div>

@@ -28,6 +28,10 @@
   padding-bottom: 5rem;
 }
 
+.hide {
+  display: none !important;
+}
+
 /* Typography */
 h1 {
   font-weight: 900;

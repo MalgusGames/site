@@ -2,7 +2,7 @@ import Kofi from "/src/assets/icons/icon_kofi.png";
 
 export default function CallToAction({ text, link, theme, icon }) {
   return (
-    <a href={link}>
+    <a href={link} target="_blank">
       <button
         className={`
           ${

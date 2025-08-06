@@ -1,29 +1,28 @@
-import heroImage from "/src/assets/Hero-Images-All.png";
+import HomeHeroImage from "/src/assets/Hero-Images-All.png";
 import CallToAction from "./CallToAction";
 
-export default function HeroSection() {
+export default function HeroSection({ page }) {
   return (
     <div className="section-container center-text">
       <div>
-        <img className="hero-image" src={heroImage} alt="hero-image" />
+        <img className="hero-image" src={page.heroImage} alt={page.alt} />
       </div>
       <div className="layout">
         <div className="layout header-subtext">
-          <h1>Homebrewed TTRPG Content</h1>
-          <p className="subtext">From My Table To Yours</p>
+          <h1>{page.title}</h1>
+          <p className="subtext">{page.subtext}</p>
         </div>
-        <p className="hero-copy">
-          Welcome to Malgus Games, a hobby that has slowly grown into an
-          obsession. Most of my work has centered around making materials and
-          assets for my home games, and now I want to share that with all of
-          you! So stay awhile, grab an ale, and please, have a look around!
-        </p>
-        <div className="ctas">
-          <CallToAction text="Browse Content" link="#magic-items" theme="red" />
+        <p className="copy">{page.copy}</p>
+        <div
+          className={`ctas
+          ${page.page === "allies" ? "hide" : null}
+        `}
+        >
+          {/* <CallToAction text="Browse Content" link="#/#magic-items" theme="red" /> */}
           <CallToAction
             text="Buy Me A Coffee"
             link="https://ko-fi.com/malgusgames"
-            theme="white"
+            theme="red"
             icon="yes"
           />
         </div>

@@ -1,6 +1,6 @@
 import CardContainer from "./CardContainer";
 
-export default function ContentSection() {
+export default function ContentSection({ cards }) {
   return (
     <div className="section-container" id="magic-items">
       <div className="layout-mini">
@@ -12,7 +12,7 @@ export default function ContentSection() {
           your table, please let me know how it goes!
         </p>
       </div>
-      <CardContainer />
+      <CardContainer cards={cards} />
     </div>
   );
 }
