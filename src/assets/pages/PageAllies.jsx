@@ -9,7 +9,7 @@ export function PageAllies() {
   const pageContent = {
     page: "allies",
     alt: "allies",
-    heroImage: "/src/assets/Hero-Images-Alliesl.png",
+    heroImage: "Hero-Images-Alliesl.png",
     title: "Follow TTRPG Content Creators",
     subtext: "The Friends We Made Along The Way",
     copy: "Throughout any adventure, you’ll run into many different characters. Some of them will be friendly, others will become your sworn enemies. But every so often, you’ll find another adventurer whose values and mission put them on the same path as you. They don’t always join your party, but in moments of need, you can count on them as your allies.",
