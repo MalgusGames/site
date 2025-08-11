@@ -8,8 +8,10 @@ export default function ContentSection({ cards }) {
         <p>
           Making homebrew magic items is a hobby that comes in handy when you're
           a forever DM. If you're looking to expand your loot tables, look no
-          further! Feedback is always welcome so if you use one of my items at
-          your table, please let me know how it goes!
+          further! All these items are compatible with dnd 5e, and most should
+          be compatible with the 2024 dnd rules. Feedback is always welcome so
+          if you use one of my items at your table, please let me know how it
+          goes!
         </p>
       </div>
       <CardContainer cards={cards} />
