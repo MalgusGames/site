@@ -16,15 +16,16 @@ export default function ItemCard({ item = "placeholder" }) {
         </div>
       </div>
       <div className="item-card-ctas">
-        <a href={item.link_regular} target="_blank">
-          <button
-            className="call-to-action cta-red cta-small"
-            id={`Magic Item ${item.name}`}
-          >
+        <a
+          href={item.link_regular}
+          target="_blank"
+          id={`Details_MI_${item.name}`}
+        >
+          <button className="call-to-action cta-red cta-small">
             <p className="cta-text">See Details</p>
           </button>
         </a>
-        <a href={item.link_bw} target="_blank">
+        <a href={item.link_bw} target="_blank" id={`DetailsBW_MI_${item.name}`}>
           Print Friendly Details
         </a>
       </div>
