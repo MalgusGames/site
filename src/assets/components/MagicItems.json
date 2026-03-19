@@ -1,5 +1,14 @@
 [
     {
+        "name": "Shroud Of Shadows",
+        "image": "shroud_of_shadows.png",
+        "type": "Wonderous Item",
+        "item-rarity": "Rare (requires attunement by a warlock)",
+        "description": "“They chased him through the streets of the city, laughing as he toppled over fruit carts and stumbled on the cobblestone. The guards slowed thei",
+        "link_regular": "https://drive.google.com/file/d/1ULfP2xyddEgUw7xwk9c-n35VYbaAFj_I/view?usp=sharing",
+        "link_bw": "https://drive.google.com/file/d/1mBLZB325M6wbvQcSC26p1uluRmZCur66/view?usp=sharing"
+    },
+    {
         "name": "Chaos Grenade",
         "image": "chaos_grenade.png",
         "type": "Wonderous Item",
