@@ -3,16 +3,16 @@
         "name": "Shroud Of Shadows",
         "image": "shroud_of_shadows.png",
         "type": "Wonderous Item",
-        "item-rarity": "Rare (requires attunement by a warlock)",
+        "rarity": "Rare (requires attunement by a warlock).",
         "description": "“They chased him through the streets of the city, laughing as he toppled over fruit carts and stumbled on the cobblestone. The guards slowed thei",
-        "link_regular": "https://drive.google.com/file/d/1ULfP2xyddEgUw7xwk9c-n35VYbaAFj_I/view?usp=sharing",
-        "link_bw": "https://drive.google.com/file/d/1mBLZB325M6wbvQcSC26p1uluRmZCur66/view?usp=sharing"
+        "link_regular": "https://drive.google.com/file/d/1zuHObFK1n9J-QzWUDQSx4SXQwAQFrJAp/view?usp=drive_link",
+        "link_bw": "https://drive.google.com/file/d/1HtPp1-BJh1QYT6Q5j4nYZTcVVfjlSC7C/view?usp=drive_link"
     },
     {
         "name": "Chaos Grenade",
         "image": "chaos_grenade.png",
         "type": "Wonderous Item",
-        "item-rarity": "Uncommon",
+        "rarity": "Uncommon",
         "description": "“This bottle comes with a quick-release harness that can be attached to a belt or strap. At an initial glance, the liquid in the bottle appears",
         "link_regular": "https://drive.google.com/file/d/1AFPshacX8K9h_-k1kexHk6xabt3U4gRc/view?usp=sharing",
         "link_bw": "https://drive.google.com/file/d/1CfmF3Z6XLZiQwIyjfayoKJ2X0Sn-WENT/view?usp=sharing"
